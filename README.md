@@ -29,7 +29,10 @@
         <li><span style="color: #6a0dad;">📊 Data Science</span></li>
     </ul>
 </div>
-
+<!-- 炫酷的背景图（仓库内图片） -->
+<div align="center">
+  <a href="https://sm.ms/image/cu9BjtgCLhqmH8i" target="_blank"><img src="https://s2.loli.net/2024/10/24/cu9BjtgCLhqmH8i.png" ></a>
+</div>
 <!-- 动态进度条显示技能熟练度 -->
 <p align="center">
   <b style="color: #ff6f61;">Programming Languages:</b>
@@ -52,10 +55,7 @@
   </a>
 </p>
 
-<!-- 炫酷的背景图（仓库内图片） -->
-<div align="center">
-  <img src="./assets/images/tech-background.jpg" alt="Tech Background" style="width: 100%; border-radius: 10px;">
-</div>
+
 
 <!-- 动态闪烁效果 -->
 <div align="center" style="margin-top: 20px;">
@@ -63,15 +63,3 @@
     Let's build something amazing together!
   </p>
 </div>
-
-<style>
-  @keyframes blink {
-    0% { opacity: 1; }
-    50% { opacity: 0.5; }
-    100% { opacity: 1; }
-  }
-
-  a:hover img {
-    transform: scale(1.5);
-  }
-</style>
