@@ -30,17 +30,15 @@
     </ul>
 </div>
 <!-- 炫酷的背景图（仓库内图片） -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://sm.ms/image/cu9BjtgCLhqmH8i" target="_blank"><img src="https://s2.loli.net/2024/10/24/cu9BjtgCLhqmH8i.png" ></a>
-</div>
-<!-- 动态进度条显示技能熟练度 -->
+</div> -->
+
 <p align="center">
-  <b style="color: #ff6f61;">Programming Languages:</b>
+    <img src="https://github-readme-stats.vercel.app/api?username=Duanyi516&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuanYi516">
 </p>
-<div align="center">
-  <p style="font-family: 'Courier New', Courier, monospace;">Python <span style="color: #ff6f61;">★★★★★</span></p>
-  <p style="font-family: 'Courier New', Courier, monospace;">C <span style="color: #ff6f61;">★★★★☆</span></p>
-</div>
+
 
 <!-- 添加带动效的社交图标 -->
 <p align="center">
