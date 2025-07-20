@@ -24,7 +24,7 @@
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 18px;">
     <p><strong>Hi, I'm a passionate learner with interest in:</strong></p>
     <ul style="list-style-type:none;">
-        <li><span style="color: #ff6f61;">💻 AI for Science</span></li>
+        <li><span style="color: #ff6f61;">💻 AI4S</span></li>
         <li><span style="color: #1e90ff;">🧠 Deep Learning</span></li>
         <li><span style="color: #6a0dad;">📊 Data Science</span></li>
     </ul>
