@@ -22,11 +22,11 @@
 
 <!-- 简单的个人简介部分 -->
 <div align="center" style="font-family: 'Arial', sans-serif; font-size: 18px;">
-    <p><strong>Hi, I'm a passionate learner with interest in:</strong></p>
+    <p><strong>Hi, I'm a passionate learner with interest in "3E":</strong></p>
     <ul style="list-style-type:none;">
-        <li><span style="color: #ff6f61;">💻 AI4S</span></li>
-        <li><span style="color: #1e90ff;">🧠 Deep Learning</span></li>
-        <li><span style="color: #6a0dad;">📊 Data Science</span></li>
+        <li><span style="color: #ff6f61;">💵 Economics</span></li>
+        <li><span style="color: #1e90ff;">📈 Empirical </span></li>
+        <li><span style="color: #6a0dad;">📊 Econometric</span></li>
     </ul>
 </div>
 <!-- 炫酷的背景图（仓库内图片） -->
