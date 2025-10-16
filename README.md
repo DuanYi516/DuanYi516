@@ -1,63 +1,116 @@
-<!-- 添加个性化标题和动画 -->
-<h1 align="center" style="font-family: 'Arial', sans-serif; font-size: 36px;">
-    <span style="color: #ff6f61;">Welcome to My GitHub Profile!</span> 
-    <span style="font-size: 24px; color: #6a0dad;">🚀</span>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=30&duration=4000&color=1E90FF&center=true&vCenter=true&width=600&height=70&lines=Financial+Quantitative+Analyst;Big+Data+in+Finance;Econometric+Modeling" alt="Typing SVG" />
 </h1>
 
-<!-- SVG 动态渐变分割线 -->
+<!-- 专业分割线 -->
 <p align="center">
-  <svg height="50" width="100%">
-    <defs>
-      <linearGradient id="gradient">
-        <stop offset="0%" style="stop-color: #ff6f61;" />
-        <stop offset="50%" style="stop-color: #6a0dad;" />
-        <stop offset="100%" style="stop-color: #1e90ff;" />
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="10" fill="url(#gradient)">
-      <animate attributeName="width" from="0" to="100%" dur="2s" repeatCount="indefinite" />
-    </rect>
-  </svg>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- 简单的个人简介部分 -->
-<div align="center" style="font-family: 'Arial', sans-serif; font-size: 18px;">
-    <p><strong>Hi, I'm a passionate learner with interest in "3E":</strong></p>
-    <ul style="list-style-type:none;">
-        <li><span style="color: #ff6f61;">💵 Economics</span></li>
-        <li><span style="color: #1e90ff;">📈 Empirical </span></li>
-        <li><span style="color: #6a0dad;">📊 Econometric</span></li>
-    </ul>
+<!-- 个人介绍 -->
+<div align="center">
+  
+### 👋 Hi, I'm Yi Duan!
+
+<p> 
+  <strong>A passionate learner with interest in:</strong>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/🎯-Quantitative%20Finance-1E90FF" />
+  <img src="https://img.shields.io/badge/📊-Financial%20Big%20Data-6A0DAD" />
+  <img src="https://img.shields.io/badge/🔬-Econometric%20Analysis-FF6F61" />
+</p>
+
+<p>
+  <em>Currently exploring the intersection of financial markets, data science, and algorithmic strategies</em> 📈
+</p>
+
 </div>
-<!-- 炫酷的背景图（仓库内图片） -->
+
+<br>
+
+<!-- 核心技能领域 -->
+<div align="center">
+  
+### 🔬 Research Focus
+
+| **Quantitative Analysis** | **Financial Big Data** | **Econometric Modeling** |
+|:-------------------------|:----------------------|:------------------------|
+| Algorithmic Trading Strategies | High-Frequency Data Processing | Time Series Analysis |
+
+</div>
+
+<br>
+
+<!-- 技术栈 -->
 <!-- <div align="center">
-  <a href="https://sm.ms/image/cu9BjtgCLhqmH8i" target="_blank"><img src="https://s2.loli.net/2024/10/24/cu9BjtgCLhqmH8i.png" ></a>
-</div> -->
+  
+### 🛠️ Technical Stack
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Duanyi516&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuanYi516">
-</p>
+**Programming & Analytics**
 
 
-<!-- 添加带动效的社交图标 -->
-<p align="center">
-  <a href="https://github.com/DuanYi516" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=6a0dad" alt="GitHub Badge" style="margin: 5px; transform: scale(1.2); transition: transform 0.3s;">
-  </a>
-  <a href="https://www.linkedin.com/in/%E6%AF%85-%E6%AE%B5-163872331/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&color=1e90ff" alt="LinkedIn Badge" style="margin: 5px; transform: scale(1.2); transition: transform 0.3s;">
-  </a>
-  <a href="https://twitter.com/I_have_no_twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=ff6f61" alt="Twitter Badge" style="margin: 5px; transform: scale(1.2); transition: transform 0.3s;">
-  </a>
-</p>
-
-
-
-<!-- 动态闪烁效果 -->
-<div align="center" style="margin-top: 20px;">
-  <p style="font-size: 20px; font-weight: bold; color: #1e90ff; animation: blink 1.5s infinite;">
-    Let's build something amazing together!
-  </p>
 </div>
+
+<br> -->
+
+<!-- GitHub统计 -->
+<div align="center">
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/DuanYi516">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuanYi516&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuanYi516&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
+</p>
+
+<!-- 连续提交图 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuanYi516&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+</div>
+
+<br>
+
+<!-- 项目展示 -->
+<div align="center">
+  
+### 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|:--------|:------------|:-------------|
+| **[Quant_RUC](https://github.com/Quant-of-Renmin-University/Quant_RUC)** | Quantitative investment research and strategy development platform at Renmin University | Python, Pandas, NumPy, Scikit-learn |
+| **Algorithmic Trading Research** | Developing and backtesting quantitative trading strategies | Python, Backtrader, Quantitative Analysis |
+| **Financial Data Analysis** | Processing and analyzing large-scale financial datasets | R, SQL, Statistical Modeling |
+
+</div>
+
+<br>
+
+<!-- 专业联系 -->
+<div align="center">
+  
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/%E6%AF%85-%E6%AE%B5-163872331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:2023200660@ruc.edu.cn">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/DuanYi516">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+</div>
+
+<!-- 动态页脚 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=footer"/>
+</p>
