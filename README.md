@@ -63,7 +63,7 @@
 <p align="center">
   <a href="https://github.com/DuanYi516">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DuanYi516&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuanYi516&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuanYi516&layout=compact&langs_count=8&theme=radical&hide_border=true"/> -->
   </a>
 </p>
 
