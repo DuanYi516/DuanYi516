@@ -1,68 +1,61 @@
-<div align="center">
+<img src="assets/lide-cloud.jpeg" width="100%" alt="Clouds over the western hills, Beijing">
 
-# 段毅 · Yi Duan
+## 👋 Hi, I'm Yi Duan (段毅)
 
-<img alt="AI Scientists · Recursive Self-Improvement · Scientific Foundation Models" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1100&color=4A7FB5&center=true&vCenter=true&width=640&height=32&lines=AI+Scientists+%C2%B7+Recursive+Self-Improvement;Scientific+Foundation+Models+%C2%B7+Genomics">
+I'm a senior undergraduate at **Renmin University of China**, joining the **Gaoling School of Artificial Intelligence** for an M.S. in 2027.
 
-<sub>Economics × AI · Renmin University of China　|　Incoming M.S., Gaoling School of Artificial Intelligence (2027)</sub>
+Most of my time goes into agents that can actually do research — read a paper, find the official repository, reproduce the experiment, write down what happened. That loop is what I care about most (**AI scientists**), together with what happens when a system starts editing the loop itself (**recursive self-improvement**). On the applied side I work on **genomic foundation models** for regulatory DNA, where the interesting question is whether the reasoning behind a prediction survives contact with a wet-lab assay.
 
-<br><br>
+- 🔭 **Now** — Paper2Agent: paper → pinned repo → isolated environment → MCP tools
+- 🧬 **Also** — R3LM, a reasoning interface between LLMs and regulatory DNA
+- 📫 **Say hi** — [2023200660@ruc.edu.cn](mailto:2023200660@ruc.edu.cn)
 
-<a href="https://duanyi516.github.io/"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-duanyi516.github.io-14395B?style=flat-square&logo=githubpages&logoColor=white"></a> <a href="https://scholar.google.com/citations?user=7qjTGD8AAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a> <a href="https://dblp.org/pid/17/2035.html"><img alt="dblp" src="https://img.shields.io/badge/dblp-1B4F72?style=flat-square&logo=dblp&logoColor=white"></a> <a href="https://orcid.org/0009-0005-2104-5042"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a> <a href="mailto:2023200660@ruc.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-
-</div>
-
-<br>
-
-I am a fourth-year undergraduate at **[Renmin University of China](https://www.ruc.edu.cn/)**, majoring in **Economics** with a second major in **Artificial Intelligence**. I work on **AI scientists** and **recursive self-improvement** — systems that can carry a research loop from literature to manuscript, and systems that can improve the machinery of their own improvement. My empirical work sits in **scientific foundation models** for genomic sequence, structure and language, where the question I keep returning to is not only *how accurate* a model is, but *whether its reasoning can be audited*.
-
-> **This is the engineering half of my profile** — repositories, benchmarks, and the code behind each paper. The academic half, with abstracts, news and full CV, lives at **[duanyi516.github.io](https://duanyi516.github.io/)**.
+<a href="https://duanyi516.github.io/"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-duanyi516.github.io-14395B?style=flat-square&logo=githubpages&logoColor=white"></a> <a href="https://scholar.google.com/citations?user=7qjTGD8AAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a> <a href="https://dblp.org/pid/17/2035.html"><img alt="dblp" src="https://img.shields.io/badge/dblp-1B4F72?style=flat-square&logo=dblp&logoColor=white"></a> <a href="https://orcid.org/0009-0005-2104-5042"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
 
 <br>
 
-## Research
+## 💻 Code
 
-| **AI Scientists** | **Recursive Self-Improvement** | **Scientific Foundation Models** |
-|:---|:---|:---|
-| Agents that close the research loop — literature, hypothesis, experiment, manuscript — where every claim traces back to evidence and every citation is real. | When the improvement loop becomes its own object of improvement: levels of autonomy, oversight, and how to evaluate a system that changes while you measure it. | Genomic sequence, structure and language in one token space; reasoning you can audit against motifs, assays and pathways, not merely predict with. |
+<table>
+<tr>
+<td width="50%" valign="top"><b><a href="https://github.com/DuanYi516/R3LM">R3LM</a></b> <img alt="stars" src="https://img.shields.io/github/stars/DuanYi516/R3LM?style=flat-square&label=%E2%98%85&color=B0894F"><br><sub>mine · KDD 2026</sub><br>LLMs read regulatory DNA through motif-grounded, structured reasoning.</td>
+<td width="50%" valign="top"><b><a href="https://github.com/yangzhao1230/Prism">Prism</a></b> <img alt="stars" src="https://img.shields.io/github/stars/yangzhao1230/Prism?style=flat-square&label=%E2%98%85&color=B0894F"><br><sub>co-first author · ICLR 2026 Oral</sub><br>Official code for fusing epigenomic signals with sequence to predict gene expression.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><b><a href="https://github.com/QizhiPei/BioMatrix">BioMatrix</a></b> <img alt="stars" src="https://img.shields.io/github/stars/QizhiPei/BioMatrix?style=flat-square&label=%E2%98%85&color=B0894F"><br><sub>co-first author</sub><br>One token space for sequences, structures and language; I built 39 of the 80 evaluation tasks.</td>
+<td width="50%" valign="top"><b><a href="https://github.com/theseus-labs-rsi/awesome-rsi">awesome-rsi</a></b> <img alt="stars" src="https://img.shields.io/github/stars/theseus-labs-rsi/awesome-rsi?style=flat-square&label=%E2%98%85&color=B0894F"><br><sub>contributor</sub><br>Curated reading list on recursive self-improvement, companion to <i>The Last AI Built by Humans</i>.</td>
+</tr>
+<tr>
+<td width="50%" valign="top"><b><a href="https://github.com/opendatalab/Sciverse-Agent-Tools">Sciverse-Agent-Tools</a></b> <img alt="stars" src="https://img.shields.io/github/stars/opendatalab/Sciverse-Agent-Tools?style=flat-square&label=%E2%98%85&color=B0894F"><br><sub>contributor</sub><br>Tool schemas and SDKs that hand Sciverse scientific retrieval to LLM agents.</td>
+<td width="50%" valign="top"><b><a href="https://github.com/DuanYi516/jaspar-cre-reasoner">jaspar-cre-reasoner</a></b> <img alt="stars" src="https://img.shields.io/github/stars/DuanYi516/jaspar-cre-reasoner?style=flat-square&label=%E2%98%85&color=B0894F"><br><sub>mine</sub><br>R3LM as a skill: JASPAR/FIMO evidence → context card → trace you can read.</td>
+</tr>
+<tr>
+<td colspan="2" valign="top"><b><a href="https://github.com/DuanYi516/terminal-bench-science">terminal-bench-science</a></b><br><sub>fork</sub><br>Benchmark harness for AI agents on end-to-end research workflows across scientific domains.</td>
+</tr>
+</table>
 
 <br>
 
-## Selected work → code
+## 📄 Papers
 
-| Paper | Links |
-|:---|:---|
-| <img src="assets/venues/iclr.svg" height="20" alt="ICLR"> **ICLR 2026** · Oral (1.15%)<br>**Prism** — *Extending Sequence Length Is Not All You Need: Effective Integration of Multimodal Signals for Gene Expression Prediction* † | [PDF](https://arxiv.org/abs/2602.21550) · [Code](https://github.com/yangzhao1230/Prism) |
-| <img src="assets/venues/kdd.svg" height="20" alt="KDD"> **KDD 2026** · Research track<br>**R3LM** — *Biological Reasoning-Informed Regression for Interpretable Regulatory DNA Activity Prediction* † | [PDF](https://arxiv.org/abs/2606.08147) · [Code](https://github.com/DuanYi516/R3LM) |
-| <img src="assets/venues/acl.svg" height="20" alt="ACL"> **ACL 2026** · Main<br>**R3** — *End-to-End Reasoning-based Planning for Multi-step Retrosynthesis via Reinforcement Learning* | [PDF](https://aclanthology.org/2026.acl-long.1745/) |
-| <img src="assets/venues/neurips.svg" height="20" alt="NeurIPS"> **NeurIPS 2025** · CURE-Bench<br>**Internal Reasoning Track** — agentic diagnosis on clinical reasoning cases, 3rd of 76 teams, **2nd prize** | [Competition](https://curebench.ai/) |
-| <img src="assets/venues/arxiv.svg" height="20" alt="arXiv"> **arXiv 2026** · Technical report<br>**The Last AI Built by Humans** — *Toward Genuine Recursive Self-Improvement* † | [PDF](https://arxiv.org/abs/2609.11873) · [Project](https://github.com/theseus-labs-rsi) |
-| <img src="assets/venues/arxiv.svg" height="20" alt="arXiv"> **arXiv 2026** · Technical report<br>**BioMatrix** — *A Foundation Model Spanning the Modality Matrix of Sequences, Structures and Language* † | [PDF](https://arxiv.org/abs/2606.22138) · [Code](https://github.com/QizhiPei/BioMatrix) |
+<table>
+<tr>
+<td align="center" width="25%"><img src="assets/logos/iclr.png" height="40" alt="ICLR"><br><b>ICLR 2026</b><br><sub>Oral · top 1.15%<br>Prism</sub></td>
+<td align="center" width="25%"><img src="assets/logos/kdd.png" height="40" alt="KDD"><br><b>KDD 2026</b><br><sub>Research track<br>R3LM</sub></td>
+<td align="center" width="25%"><img src="assets/logos/acl.png" height="40" alt="ACL"><br><b>ACL 2026</b><br><sub>Main conference<br>R3</sub></td>
+<td align="center" width="25%"><img src="assets/logos/neurips.png" height="40" alt="NeurIPS"><br><b>NeurIPS 2025</b><br><sub>2nd prize<br>CURE-Bench</sub></td>
+</tr>
+</table>
 
-<sub>† First or co-first author. Full author lists and abstracts: [homepage](https://duanyi516.github.io/#publications).</sub>
-
-<br>
-
-## Research software
-
-| Repository | What it does | Activity |
-|:---|:---|:---:|
-| **[R3LM](https://github.com/DuanYi516/R3LM)** | Reference implementation of R3LM (KDD 2026): LLMs read DNA through motif-grounded, structured reasoning rather than raw sequence recall. | <img src="https://img.shields.io/github/last-commit/DuanYi516/R3LM?style=flat-square&label=updated&color=B0894F" alt="updated"> |
-| **[jaspar-cre-reasoner](https://github.com/DuanYi516/jaspar-cre-reasoner)** | R3LM as a runnable skill: JASPAR/FIMO evidence → Regulatory Context Card → auditable reasoning trace, on a 0–3 expression scale. | <img src="https://img.shields.io/github/last-commit/DuanYi516/jaspar-cre-reasoner?style=flat-square&label=updated&color=B0894F" alt="updated"> |
-| **[AHE](https://github.com/DuanYi516/AHE)** | Automated Hypothesis Explorer: hypothesis generation, model-based validation, multiple-testing correction, and an explanation of what survived. | <img src="https://img.shields.io/github/last-commit/DuanYi516/AHE?style=flat-square&label=updated&color=B0894F" alt="updated"> |
-| **[terminal-bench-science](https://github.com/DuanYi516/terminal-bench-science)** `fork` | Benchmark harness for AI agents on end-to-end research workflows across scientific domains — the evaluation side of the agent work. | <img src="https://img.shields.io/github/last-commit/DuanYi516/terminal-bench-science?style=flat-square&label=updated&color=B0894F" alt="updated"> |
-
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch,linux,latex,docker,git&theme=light" alt="Python · PyTorch · Linux · LaTeX · Docker · Git"></a>
-</p>
+<sub>PDFs, abstracts and the full author lists are on the [homepage](https://duanyi516.github.io/#publications).</sub>
 
 <br>
 
 <img src="assets/rule.svg" width="100%" alt="">
 
 <p align="center">
-  <sub><b>段毅</b> · Beijing, China · AI scientists, self-improving systems, and the code that makes them checkable</sub><br>
-  <sub>Papers, abstracts and news on <a href="https://duanyi516.github.io/">duanyi516.github.io</a> · 欢迎邮件交流</sub>
+  <sub>Beijing, China · <a href="https://duanyi516.github.io/">duanyi516.github.io</a> · 欢迎邮件交流</sub><br>
+  <sub>Most of my work lives in private repos until it ships; what's public is above.</sub>
 </p>
 
 <p align="center">
