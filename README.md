@@ -16,6 +16,8 @@ Most of my time goes into agents that can actually do research — read a paper,
 
 ## 💻 Code
 
+Things I maintain, and things I helped build.
+
 <table>
 <tr>
 <td width="50%" valign="top"><b><a href="https://github.com/DuanYi516/R3LM">R3LM</a></b> <img alt="stars" src="https://img.shields.io/github/stars/DuanYi516/R3LM?style=flat-square&label=%E2%98%85&color=B0894F"><br><sub>mine · KDD 2026</sub><br>LLMs read regulatory DNA through motif-grounded, structured reasoning.</td>
@@ -40,10 +42,10 @@ Most of my time goes into agents that can actually do research — read a paper,
 
 <table>
 <tr>
-<td align="center" width="25%"><img src="assets/logos/iclr.png" height="40" alt="ICLR"><br><b>ICLR 2026</b><br><sub>Oral · top 1.15%<br>Prism</sub></td>
-<td align="center" width="25%"><img src="assets/logos/kdd.png" height="40" alt="KDD"><br><b>KDD 2026</b><br><sub>Research track<br>R3LM</sub></td>
-<td align="center" width="25%"><img src="assets/logos/acl.png" height="40" alt="ACL"><br><b>ACL 2026</b><br><sub>Main conference<br>R3</sub></td>
-<td align="center" width="25%"><img src="assets/logos/neurips.png" height="40" alt="NeurIPS"><br><b>NeurIPS 2025</b><br><sub>2nd prize<br>CURE-Bench</sub></td>
+<td align="center" width="190"><img src="assets/logos/iclr.png" height="40" alt="ICLR"><br><b>ICLR 2026</b><br><sub>Oral · top 1.15%<br>Prism</sub></td>
+<td align="center" width="190"><img src="assets/logos/kdd.png" height="40" alt="KDD"><br><b>KDD 2026</b><br><sub>Research track<br>R3LM</sub></td>
+<td align="center" width="190"><img src="assets/logos/acl.png" height="40" alt="ACL"><br><b>ACL 2026</b><br><sub>Main conference<br>R3</sub></td>
+<td align="center" width="190"><img src="assets/logos/neurips.png" height="40" alt="NeurIPS"><br><b>NeurIPS 2025</b><br><sub>2nd prize<br>CURE-Bench</sub></td>
 </tr>
 </table>
 
