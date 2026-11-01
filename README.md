@@ -1,4 +1,6 @@
-<img src="assets/lide-cloud.jpeg" width="90%" alt="Clouds over the western hills, Beijing">
+<p align="center">
+  <img src="assets/lide-cloud.jpeg" width="90%" alt="Clouds over the western hills, Beijing">
+</p>
 
 ## 👋 Hi, I'm Yi Duan (段毅)
 
